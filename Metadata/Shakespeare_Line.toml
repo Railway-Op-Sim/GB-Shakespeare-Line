@@ -1,0 +1,16 @@
+rly_file = "Shakespeare_Line.rly"
+ttb_files = [ "Shakespeare_Line_2025-04-02.ttb",]
+ssn_files = [ "Shakespeare_Line_Initial_Session.ssn",]
+img_files = [ "Shakespeare_Line.bmp",]
+doc_files = [ "Shakespeare_Line.md",]
+release_date = "2025-03-31"
+version = "1.0.0"
+country_code = "GB"
+factual = true
+description = ""
+year = 2025
+display_name = "Shakespeare Line"
+name = "Shakespeare Line"
+signal_position = "left"
+author = "Oxalin1"
+contributors = []
